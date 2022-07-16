@@ -1,0 +1,25 @@
+"Registry"
+{
+	"HKCU"
+	{
+		"Software"
+		{
+			"Valve"
+			{
+				"Steam"
+				{
+					"RunningAppID"		"0"
+					"apps"
+					{
+						"1829350"
+						{
+							"Installed"		"1"
+							"Updating"		"0"
+							"Running"		"0"
+						}
+					}
+				}
+			}
+		}
+	}
+}
